@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-0": { "Matason\\Example\\": "src/" }
+  },
+  "require": {
+    "silex/silex": "1.2.3",
+    "doctrine/orm": "2.4.7"
+  }
+}
